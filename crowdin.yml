@@ -1,5 +1,3 @@
 files:
-  - source: /resources/lang/*/*.php
-    translation: /resources/lang/%two_letters_code%/%original_file_name%
   - source: /resources/views/frontend/index.blade.php
     translation: /resources/views/frontend/%two_letters_code%/index.blade.php
